@@ -1,5 +1,5 @@
 body{
-  font-family: 'Montserrat';font-size: 22px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   padding:0;
   margin:0;
   background-color: #ffffff;
@@ -80,6 +80,8 @@ header a:hover{
   font-size:55px;
   margin-bottom:10px;
 }
+#more {display: none;}
+
 .img{
   height: 850px;
   width: 100%;
@@ -92,6 +94,7 @@ header a:hover{
 #showcase p{
   font-size:20px;
 }
+
 
 /* Newsletter */
 #newsletter{
